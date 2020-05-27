@@ -59,4 +59,3 @@ console.log(counter);
 
 // console.log(calendar['1001-8-24']);
 console.log(calendar['1899-9-29']);
-console.log('Тест дискорда');
